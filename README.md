@@ -109,8 +109,7 @@ Antecedente 6
 Shaw Floors
 http://colorspeaks.sagepath.com/#/
 pagina de venta de alfombras. 
-<img width="1433" alt="Captura de Pantalla 2022-06-08 a la(s) 16 56 26" src="https://user-images.githubusercontent.com/75910897/172715531-bb6c13a6-3e7f-4809-a102-36e140534b7b.png">
-
+<img width="1438" alt="Captura de Pantalla 2022-06-08 a la(s) 19 48 20" src="https://user-images.githubusercontent.com/75910897/172735913-1e8d0531-e96f-4bf3-9cc8-1ac89b719b4d.png">
 
 Aspecto positivo:
 interesante presentación de elementos, y la interaccion con ello.

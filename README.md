@@ -8,19 +8,19 @@ Muy probable:
 
 Maria, 35 años, diseñadora en jefe de equipo de diseño.
  - Es una persona trabajadora, trabaja a cargo del diseño de multiples marcas,
-
  - Busca un diseñador por que se vio sobrecargada con las marcas con las que trabaja, por lo que necesita un diseñador grafico que pueda acomodarse a estos estilos graficos. 
 
 
 Promedio:
+
 Lucia, 27 años, dueña de una pyme de mediano exito, 
  - Le gustan las redes sociales, y quiere profecionalizar su marca.
-
  - Busca contratar un diseñador grafico para diseñar las publicaciones del instagram.
 
 Menos probable: 
+
 Marcos, 40 años, Chef.
- - Apacionado de la cocina, le interesa destacar mas el sabor de su comida antes que cualquier otro ambito del restaurante. 
+ - Apasionado de la cocina, le interesa destacar mas el sabor de su comida antes que cualquier otro ambito del restaurante. 
  - Busca un diseñador que le haga logos y carteles para su restaurante, que no tenga que cambiar en mucho tiempo.
 
 ### ¿Qué existe que es similar a la propuesta? 
